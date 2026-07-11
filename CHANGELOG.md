@@ -2,6 +2,13 @@
 
 > Renamed from `@dreki-gg/pi-context7` when extracted from the pi-extensions monorepo. Entries below predate the rename; tool names were `context7_*` at the time.
 
+## [0.3.1](https://github.com/jalbarrang/pi-doc-search/compare/v0.3.0...v0.3.1) (2026-07-11)
+
+
+### Bug Fixes
+
+* add files allowlist so the npm tarball ships only the extension ([#2](https://github.com/jalbarrang/pi-doc-search/issues/2)) ([836fdb7](https://github.com/jalbarrang/pi-doc-search/commit/836fdb7c5192cfcea2185d34b50425c651feec4e))
+
 ## [0.3.0](https://github.com/jalbarrang/pi-doc-search/compare/v0.2.0...v0.3.0) (2026-07-11)
 
 
