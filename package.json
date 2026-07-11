@@ -1,7 +1,7 @@
 {
   "name": "@dreki-gg/pi-doc-search",
   "version": "0.3.1",
-  "description": "Library doc-search tools for pi, powered by Context7 — direct HTTP, persistent cache, no MCP dependency",
+  "description": "Library doc-search tools for pi, powered by Context7 \u2014 direct HTTP, persistent cache, no MCP dependency",
   "keywords": [
     "pi-package",
     "pi",
@@ -52,5 +52,8 @@
     "typebox": {
       "optional": true
     }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
