@@ -1,7 +1,7 @@
 {
   "name": "@dreki-gg/pi-doc-search",
   "version": "0.3.0",
-  "description": "Library doc-search tools for pi, powered by Context7 — direct HTTP, persistent cache, no MCP dependency",
+  "description": "Library doc-search tools for pi, powered by Context7 \u2014 direct HTTP, persistent cache, no MCP dependency",
   "keywords": [
     "pi-package",
     "pi",
@@ -16,6 +16,12 @@
     "url": "git+https://github.com/jalbarrang/pi-doc-search.git"
   },
   "type": "module",
+  "files": [
+    "extensions",
+    "README.md",
+    "CHANGELOG.md",
+    "package.json"
+  ],
   "scripts": {
     "typecheck": "tsc --noEmit",
     "lint": "oxlint extensions",
