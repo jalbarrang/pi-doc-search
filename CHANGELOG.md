@@ -2,6 +2,13 @@
 
 > Renamed from `@dreki-gg/pi-context7` when extracted from the pi-extensions monorepo. Entries below predate the rename; tool names were `context7_*` at the time.
 
+## [0.3.0](https://github.com/jalbarrang/pi-doc-search/compare/v0.2.0...v0.3.0) (2026-07-11)
+
+
+### Features
+
+* extract pi-doc-search from dreki-gg/pi-extensions monorepo ([ce54745](https://github.com/jalbarrang/pi-doc-search/commit/ce5474522dd13a8fa402a52b6b6e184ff9a97d6e))
+
 ## 0.2.0
 
 ### Minor Changes
