@@ -2,6 +2,13 @@
 
 > Renamed from `@dreki-gg/pi-context7` when extracted from the pi-extensions monorepo. Entries below predate the rename; tool names were `context7_*` at the time.
 
+## [0.3.2](https://github.com/jalbarrang/pi-doc-search/compare/v0.3.1...v0.3.2) (2026-07-12)
+
+
+### Bug Fixes
+
+* **deps:** bump dependencies to latest ([#7](https://github.com/jalbarrang/pi-doc-search/issues/7)) ([5ddb303](https://github.com/jalbarrang/pi-doc-search/commit/5ddb303af14697b01fe8b3dc9b014a780410e9b9))
+
 ## [0.3.1](https://github.com/jalbarrang/pi-doc-search/compare/v0.3.0...v0.3.1) (2026-07-11)
 
 
